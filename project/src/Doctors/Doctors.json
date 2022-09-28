@@ -1,0 +1,91 @@
+{
+    "Department":[
+        {
+            "dep_name":"Cardio",
+            "dep_id":"D01",
+            "dep_img":"../../../../Images/Cardio/heart.jpg",
+            "desc":"Cardiology",
+            "doc_dep":[
+                {
+                    "doc_id":"A01",
+                    "doc_name":"Dr. Devi Prasad Shetty",
+                    "fees":"1200",
+                    "doc_desc":"Lorem Ipsum",
+                    "doc_img":"../../../../Images/Cardio/cardio1.jpg"
+
+                },
+                {
+                    "doc_id":"A02",
+                    "doc_name":"Dr. Ramakanta Panda",
+                    "fees":"1000",
+                    "doc_desc":"Lorem Ipsum",
+                    "doc_img":"../../../../Images/Cardio/cardio2.jpg"
+
+                },
+                {
+                    "s_id":"A03",
+                    "doc_name":"Dr. Naresh Trehan",
+                    "fees":"1500",
+                    "doc_desc":"Lorem Ipsum",
+                    "doc_img":"../../../../Images/Cardio/cardio3.jpg"
+
+                }]
+            },     
+
+            {
+                "dep_name":"Dental",
+                "dep_id":"D02",
+                "dep_img":"../../../../Images/Dent/tooth.jpg",
+                "desc":"Dentist",
+                "doc_dep":[
+                    {
+                        "doc_id":"B01",
+                        "doc_name":"Dr. Tarun Giroti",
+                        "fees":"50000",
+                        "doc_desc":"Lorem Ipsum",
+                        "doc_img":"../../../../Images/Dent/dent1.jpg"
+    
+                    },
+                    {
+                        "doc_id":"B02",
+                        "doc_name":"Dr. Sagar Shah",
+                        "fees":"32000",
+                        "doc_desc":"Lorem Ipsum",
+                        "doc_img":"../../../../Images/Dent/dent2.png"
+    
+                    },
+                    {
+                        "doc_id":"B03",
+                        "doc_name":"Dr. Abhijeet Sadekar",
+                        "fees":"62000",
+                        "doc_desc":"Lorem Ipsum",
+                        "doc_img":"../../../../Images/Dent/dent3.jpg"
+    
+                    }]
+                }, 
+                
+                {
+                    "dep_name":"Eye",
+                    "dep_id":"D03",
+                    "dep_img":"../../../../Images/Eye/eye.jpg",
+                    "desc":"Vison",
+                    "doc_dep":[
+                        {
+                            "doc_id":"C01",
+                            "doc_name":"Dr Suraj Munjal",
+                            "fees":"50000",
+                            "doc_desc":"Lorem Ipsum",
+                            "doc_img":"../../../../Images/Eye/eye1.jpeg"
+        
+                        },
+                        {
+                            "doc_id":"C02",
+                            "doc_name":" Dr Vivek Garg",
+                            "fees":"40000",
+                            "doc_desc":"Lorem Ipsum",
+                            "doc_img":"../../../../Images/Eye/eye2.jpeg"
+        
+                        }]
+                    }   
+    ]
+}

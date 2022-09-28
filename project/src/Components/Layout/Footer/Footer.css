@@ -1,0 +1,61 @@
+.footer{
+    background-color: rgb(198, 151, 229);
+    color: white;
+    height: 100px;
+    padding-top: 100px;
+    padding-left: 100px;
+    padding-bottom: 100px;
+    padding-right: 100px;
+}
+.agileits-bottom-grids.social-icons {
+    margin-top: 2em;
+}
+.agileits-bottom-grids.social-icons h2 {
+    margin-bottom: 0;
+}
+.social-icons ul{
+	display:inline-block;
+	padding: 0;
+}
+.social-icons ul li {
+    position: inherit;
+    display: inline-block;
+    width: inherit;
+}
+.social-icons ul li:nth-child(2) {
+    margin: 0 .5em;
+}
+.social-icons ul li:nth-child(3) {
+    margin-right: 0.5em;
+}
+.social-icons ul li a {
+    background: url(../../../../public/Images/social-icons.png) #55acee no-repeat 2px 1px;
+    display: block;
+    height: 35px;
+    width: 35px;
+    -webkit-transition: .5s all;
+    transition: .5s all;
+    -moz-transition: .5s all;
+}
+.social-icons ul li a.fb{
+	background-position:1px -40px;
+	background-color:#3b5998;
+}
+.social-icons ul li a.gp {
+    background-position: 2px -80px;
+	background-color:#dc4e41;
+}
+.social-icons ul li a.drb {
+    background-position: 1px -120px;
+	background-color:#ea4c89;
+}
+.social-icons ul li a:hover {
+	-webkit-border-radius: 32px;
+	-moz-border-radius: 32px;
+    border-radius: 32px;
+	-webkit-transform: rotatez(360deg);
+	-moz-transform: rotatez(360deg);
+    transform: rotatez(360deg);
+	-o-transform: rotatez(360deg);
+	-ms-transform: rotatez(360deg);
+}

@@ -1,0 +1,30 @@
+/* .navbar{
+   
+   
+    background:rgb(229, 201, 255) ;
+}
+.logo_with_Name{
+    font-family: 'Tangerine', cursive;
+    font-size: 45px;
+ 
+    text-shadow: 4px 4px 4px rgb(211, 5, 252);
+    
+}
+.me-auto{
+    font-family: 'DynaPuff', cursive;
+    margin-left: 150px;
+    text-shadow: 4px 4px 4px rgb(211, 5, 252);
+    
+} */
+.speedDial {
+    position: fixed;
+    right: 3vmax;
+    top: 3vmax;
+  }
+  
+  .speedDialIcon {
+    width: 56px;
+    height: 56px;
+    border-radius: 100%;
+  }
+  
